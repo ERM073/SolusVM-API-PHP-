@@ -17,3 +17,6 @@ $apiUrl = 'https://SolusVM.domain.com/api/client/command.php?key=' . urlencode($
 
 3. Open the page of the uploaded PHP file from your browser.
 4. Enter key and hash and select the action you wish to perform from the select box.
+
+## Enable API
+![img](https://raw.githubusercontent.com/ERM073/SolusVM-API-PHP-/main/2023-06-11_18h35_51.png "img")
